@@ -18,7 +18,7 @@ var friendsArray = [
     },
     {
         "name": "Rodger",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://highlightsindia.com/wp-content/uploads/2017/05/R.-Madhavan.jpg",
         "scores": [
             '1',
             '1',
